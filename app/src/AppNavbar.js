@@ -22,7 +22,7 @@ export default class AppNavbar extends Component {
             <Collapse isOpen={this.state.isOpen} navbar>
                 <Nav className="ml-auto" navbar>
                     <NavItem>
-                        <NavLink href="https://github.com/cmaiser/ice-cream-tracker">GitHub</NavLink>
+                        <NavLink href="https://github.com/cmaiser/shopping-cart">GitHub</NavLink>
                     </NavItem>
                 </Nav>
             </Collapse>
